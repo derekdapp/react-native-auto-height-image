@@ -5,4 +5,3 @@
 ## How to Test
 
 - `cd ExampleApp && yarn install && react-native start`
-- 
